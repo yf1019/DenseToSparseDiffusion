@@ -1,1 +1,1 @@
-# DenseToSparseDiffusion
+Project Page for DenseToSparseDiffusion
